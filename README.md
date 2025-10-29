@@ -52,13 +52,16 @@ It provides users with real-time and accurate weather forecasts for locations wo
    cd Weather
 
 2. Install dependencies
+   
    npm install
 
-3. Add your WeatherAPI key
+4. Add your WeatherAPI key
+   
    Create a .env file in the project root and add your API key:
    WEATHER_API_KEY=your_api_key_here
 
-4. Run the app
+6. Run the app
+   
    npx expo start
 
 
@@ -71,5 +74,5 @@ This app was designed and developed by Deepak Kumar to practice:
 
 👨‍💻 Developer
 Deepak Kumar
-📸 Instagram
-💻 GitHub
+📸 [Instagram](https://www.instagram.com/dpk._.dk/)
+💻 [GitHub https://github.com/Deepak-9988](https://github.com/Deepak-9988)

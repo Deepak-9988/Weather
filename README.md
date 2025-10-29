@@ -44,9 +44,33 @@ It provides users with real-time and accurate weather forecasts for locations wo
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
 
-1. **Clone the repository**
-   ```bash
+1. Clone the repository
    git clone https://github.com/Deepak-9988/Weather.git
+
    cd Weather
+
+2. Install dependencies
+   npm install
+
+3. Add your WeatherAPI key
+   Create a .env file in the project root and add your API key:
+   WEATHER_API_KEY=your_api_key_here
+
+4. Run the app
+   npx expo start
+
+
+🧠 About the Project:
+This app was designed and developed by Deepak Kumar to practice:
+-Working with external APIs
+-Location-based services
+-Responsive and clean UI design in React Native
+-Expo ecosystem and Tailwind CSS integration
+
+👨‍💻 Developer
+Deepak Kumar
+Instagram: https://www.instagram.com/dpk._.dk/
+
+GitHub: https://github.com/Deepak-9988

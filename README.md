@@ -74,5 +74,5 @@ This app was designed and developed by Deepak Kumar to practice:
 
 👨‍💻 Developer
 Deepak Kumar
+💻 [GitHub](https://github.com/Deepak-9988)
 📸 [Instagram](https://www.instagram.com/dpk._.dk/)
-💻 [GitHub https://github.com/Deepak-9988](https://github.com/Deepak-9988)

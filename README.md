@@ -23,11 +23,11 @@ It provides users with real-time and accurate weather forecasts for locations wo
 
 | Overview | Search Suggestions | Partly Cloudy |
 |-----------|--------------------|----------------|
-| <img src="./screenshots/1 Weather App Overview.jpg" width="250" /> | <img src="./screenshots/2 Search Suggestions.png" width="250" /> | <img src="./screenshots/T Partly Cloudy.png" width="250" /> |
+| <img src="./screenshots/1 Weather App Overview.jpg" width="250" /> | <img src="./screenshots/2 Search Suggestions.png" width="250" /> | <img src="./screenshots/Partly Cloudy.png" width="250" /> |
 
 | Patchy Rain | Sunny Day |
 |--------------|-------------|
-| <img src="./screenshots/Ta Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
+| <img src="./screenshots/Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
 
 > 💡 Place all screenshots inside a folder named `screenshots/` in your project root.
 

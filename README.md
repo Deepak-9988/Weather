@@ -5,20 +5,6 @@ It provides users with real-time and accurate weather forecasts for locations wo
 
 ---
 
-## ✨ Key Features & Technology
-
-| Feature / Technology | Description |
-|----------------------|-------------|
-| 🧭 **Cross-Platform** | Built with React Native for a unified experience on **iOS and Android**. |
-| ⚡ **Real-Time Data** | Integrates with **WeatherAPI** to fetch live weather conditions and daily forecasts. |
-| 🎨 **Intuitive UI** | Dark-themed, visually appealing interface with smooth transitions and clear weather iconography. |
-| 🔍 **Search Functionality** | Allows users to easily search and select different cities (as shown in screenshots). |
-| 💅 **Styling** | Uses **Tailwind CSS / NativeWind** for utility-first, consistent, and maintainable styling. |
-| 🌈 **Icons** | Employs **Heroicons** for clean and scalable vector graphics. |
-| 🌡️ **Display Metrics** | Shows temperature (°C), wind speed (km/h), humidity (%), and sunrise/sunset times. |
-
----
-
 ## 📸 Visual Showcase
 
 | Overview | Search Suggestions | Partly Cloudy |
@@ -30,6 +16,20 @@ It provides users with real-time and accurate weather forecasts for locations wo
 | <img src="./screenshots/Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
 
 > 💡 Place all screenshots inside a folder named `screenshots/` in your project root.
+
+---
+
+## ✨ Key Features & Technology
+
+| Feature / Technology | Description |
+|----------------------|-------------|
+| 🧭 **Cross-Platform** | Built with React Native for a unified experience on **iOS and Android**. |
+| ⚡ **Real-Time Data** | Integrates with **WeatherAPI** to fetch live weather conditions and daily forecasts. |
+| 🎨 **Intuitive UI** | Dark-themed, visually appealing interface with smooth transitions and clear weather iconography. |
+| 🔍 **Search Functionality** | Allows users to easily search and select different cities (as shown in screenshots). |
+| 💅 **Styling** | Uses **Tailwind CSS / NativeWind** for utility-first, consistent, and maintainable styling. |
+| 🌈 **Icons** | Employs **Heroicons** for clean and scalable vector graphics. |
+| 🌡️ **Display Metrics** | Shows temperature (°C), wind speed (km/h), humidity (%), and sunrise/sunset times. |
 
 ---
 

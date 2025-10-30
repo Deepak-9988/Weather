@@ -7,13 +7,14 @@ It provides users with real-time and accurate weather forecasts for locations wo
 
 ## 📸 Visual Showcase
 
-| Overview | Search Suggestions | Partly Cloudy |
-|-----------|--------------------|----------------|
-| <img src="./screenshots/1 Weather App Overview.jpg" width="250" /> | <img src="./screenshots/2 Search Suggestions.png" width="250" /> | <img src="./screenshots/Partly Cloudy.png" width="250" /> |
+| Overview | Search Suggestions |
+|----------|------------------|
+| <img src="./screenshots/1 Weather App Overview.jpg" width="525" /> | <img src="./screenshots/2 Search Suggestions.png" width="250" /> |
 
-| Patchy Rain | Sunny Day |
-|--------------|-------------|
-| <img src="./screenshots/Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
+| Partly Cloudy | Patchy Rain | Sunny Day |
+|---------------|-------------|-----------|
+| <img src="./screenshots/Partly Cloudy.png" width="250" /> | <img src="./screenshots/Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
+
 
 ---
 

@@ -15,8 +15,6 @@ It provides users with real-time and accurate weather forecasts for locations wo
 |--------------|-------------|
 | <img src="./screenshots/Patchy Rain.png" width="250" /> | <img src="./screenshots/Sunny Day.png" width="250" /> |
 
-> 💡 Place all screenshots inside a folder named `screenshots/` in your project root.
-
 ---
 
 ## ✨ Key Features & Technology
